@@ -1,15 +1,16 @@
 
+$$
+\vphantom{LaTex is just beautiful 🥹}% 
+$$
+
 Kinyua’s solution to *: Find all non negative integers a, b such that sqrt(a) + sqrt(b) = sqrt(2009)* 
 
 $$
-\vphantom{LaTex is just beautiful 🥹}% 
-
 \sqrt a + \sqrt b = \sqrt 2009 \tag{i}
 $$
 
 $$
 2009 = 7 *7*41  \therefore \sqrt 2009 = 7 \sqrt 41
-
 $$
 
 $$
