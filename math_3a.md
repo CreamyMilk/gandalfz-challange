@@ -10,7 +10,7 @@ $$
 $$
 
 $$
-2009 = 7 *7*41  \therefore \sqrt 2009 = 7 \sqrt 41
+2009 = 7 * 7 * 41  \therefore \sqrt 2009 = 7 \sqrt 41
 $$
 
 $$
