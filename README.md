@@ -21,7 +21,7 @@
 
 
 ##### b) _Compute the SHA256 of 2009. Perform a transaction on the Görli testnet network and put this computed SHA in the data section of your transaction_
-
+- My solution : https://goerli.etherscan.io/tx/0xd15d7b94e4ac1a0d420bc6f501139eaee386ec881bfb9f62d9a2932c59fcb716
 ```sh
 export PK = "<< Insert you'r private key here 👀 >> "
 export GORLI_RPC = << You can get a Görli rpc_url from Alchemy or here 👀 : https://sourcegraph.com/search?q=context:global+https://eth-goerli.g.alchemy.com&patternType=standard >>
